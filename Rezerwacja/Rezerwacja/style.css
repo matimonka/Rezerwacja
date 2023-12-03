@@ -1,0 +1,225 @@
+body {
+	background-image: url(img/tlo2.jpg);
+	background-size: cover;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 17px;
+	display: flex;
+}
+
+form {
+	text-align: center;
+	margin-left: 50px;
+	padding: 100px;
+	font-size: 25px;
+
+}
+
+.okno {
+	height: 25px;
+}
+
+.button {
+	size: 25px;
+}
+
+.okno1 {
+	height: 30px;
+	width: 350px;
+}
+
+#reg {
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+}
+
+
+
+#container {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#logo {
+	width: 100%;
+	color: white;
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 25px;
+	height: 280px;
+
+
+}
+
+#imglogo {
+
+	float: left;
+	padding: 20px;
+	width: 680px;
+	height: 280px;
+
+}
+
+#textlogo {
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 25px;
+	text-align: center;
+}
+
+#topmenu {
+	width: 100%;
+	text-align: center;
+}
+
+#leftmenu {
+	float: left;
+	text-align: center;
+	width: 590px;
+	height: 800px;
+
+
+}
+
+#content {
+	margin-top: 40px;
+	float: left;
+	color: white;
+	text-align: center;
+	width: 452;
+	height: 760px;
+}
+
+#footer {
+	border-top: 5px;
+	color: white;
+}
+
+#welcome {
+
+	padding: 40px;
+	margin-left: 420px;
+	box-align: center;
+	min-height: 580px;
+	font-size: 35px;
+
+}
+
+#formularz {
+	
+	color: white;
+	text-align: center;
+
+}
+
+#container1 {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 10px;
+	font-size: 25px;
+	min-height: 38px;
+	line-height: 200%;
+	align-items: center;
+}
+
+.menu>li {
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: 1px dashed #cccccc;
+}
+
+.menu>li:first-child {
+	border-left: 1px dashed #cccccc;
+}
+
+.menu a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a:hover {
+	color: blue;
+	cursor: pointer;
+
+}
+
+a.current {
+	color: lightblue;
+	cursor: pointer;
+
+}
+
+.optionL {
+	font-size: 18px;
+	height: 25px;
+	padding: 10px;
+	border-bottom: 2px dotted #444444;
+}
+
+.sport {
+	list-style-type: none;
+	margin: 0;
+	padding: 20px;
+	font-size: 25px;
+	min-height: 38px;
+	line-height: 200%;
+	align: center;
+
+}
+
+.sport a {
+	color: #fff;
+	text-decoration: none;
+
+}
+
+
+a.current1 {
+	color: lightblue;
+	cursor: pointer;
+
+}
+
+.sport>li {
+	padding-left: 20px;
+	padding-right: 20px;
+	border-bottom: 1px dashed #cccccc;
+}
+
+.sport a:hover {
+	color: blue;
+	cursor: pointer;
+}
+
+.sport:hover {
+	color: blue;
+	cursor: pointer;
+}
+
+.bigtitle {
+	font-size: 32px;
+	font-weight: 900;
+	letter-spacing: 2px;
+}
+
+.menager {
+	float: left;
+	height: 200px;
+	margin-right: 1px;
+	text-align: center;
+	width: 260px;
+	color: white;
+}
+
+#reg{
+	text-align: center;
+}
